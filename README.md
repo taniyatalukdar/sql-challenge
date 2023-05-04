@@ -1,11 +1,11 @@
-# OVERVIEW:
+## OVERVIEW:
 This week?s Challenge is about the HR data in a company named Pewlett Hackard (a fictional company). 
 The task was to create a research project about people whom the company employed during the 1980s and 1990s. Six CSV files were provided as data to load and create 6 tables for a database namely: employees, departments, dept_manager, dept_emp, salaries and titles. The following ERD was used to build the database:
 
 
 
 
-# ANALYSIS
+## ANALYSIS
 Resources used:
 I used PostgreSQL in PGAdmin4 to create the database and then the tables and eventually the queries. I used QuickDBD to create the ERD. 
 I worked with my tutor, Kelli Kennedy and a lot of internet searches.
@@ -34,5 +34,5 @@ The data was found in a single table. The following was the result:
 
 
 
-# CONCLUSION:
+## CONCLUSION:
 While we explored the data which is mostly for older employees, perhaps we should increase the scope to check the data about younger employees and which department employees the youngest employees. We can also check how long they have been in their current roles and with the organization.
