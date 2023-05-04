@@ -1,7 +1,7 @@
 ## OVERVIEW:
 This week?s Challenge is about the HR data in a company named Pewlett Hackard (a fictional company). 
 The task was to create a research project about people whom the company employed during the 1980s and 1990s. Six CSV files were provided as data to load and create 6 tables for a database namely: employees, departments, dept_manager, dept_emp, salaries and titles. The following ERD was used to build the database:
-
+![alt text](https://github.com/taniyatalukdar/sql-challenge/blob/main/Image/Screenshot%202023-05-03%20at%2010.42.28%20PM.png?raw=true) 
 
 
 
