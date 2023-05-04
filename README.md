@@ -31,7 +31,7 @@ WHERE first_name = 'Hercules'
 AND last_name LIKE 'B%';
 
 The data was found in a single table. The following was the result:
-
+![alt text](https://github.com/taniyatalukdar/sql-challenge/blob/main/Image/Screenshot%202023-05-03%20at%2011.01.08%20PM.png?raw=true)
 
 
 ## CONCLUSION:
