@@ -21,7 +21,7 @@ FROM employees as a
 ORDER BY a.emp_no;
 
 The result is:
-
+![alt text](https://github.com/taniyatalukdar/sql-challenge/blob/main/Image/Screenshot%202023-05-03%20at%2010.56.43%20PM.png?raw=true)
 
 
 For analysis no. 5 - List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B. ? I used the following query:
